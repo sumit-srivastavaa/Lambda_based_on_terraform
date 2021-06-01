@@ -11,6 +11,6 @@ variable "secretname" {
     type = string
 }
 
-variables "proxyname"{
+variable "proxyname"{
     type = string
 }
